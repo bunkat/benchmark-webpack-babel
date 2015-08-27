@@ -2,7 +2,8 @@
   "name": "benchmark-test-project",
   "version": "0.0.1",
   "dependencies": {
-    "es6-shim": "^0.31.3"
+    "es6-shim": "^0.31.3",
+    "lodash": "^3.7.0"
   },
   "devDependencies": {
     "babel-core": "^5.1.13",
